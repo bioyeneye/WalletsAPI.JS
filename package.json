@@ -1,0 +1,19 @@
+{
+	"name": "walletapilibrary",
+	"version": "1.0.6",
+	"description": "Wallets API Library",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Oyeneye Bolaji",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.19.1",
+		"axios-observable": "^1.1.2",
+		"rxjs": "^6.5.4",
+		"ts-node": "^8.6.2",
+		"typescript": "^3.7.4"
+	}
+}

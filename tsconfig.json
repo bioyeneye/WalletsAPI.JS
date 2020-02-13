@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"lib": [
+			"es5",
+			"es2017",
+			"dom",
+			"scripthost"
+		],
+		"module": "commonjs",
+		"target": "es5",
+		"declaration": true,
+		"outDir": "./dist"
+	},
+	"include": [
+		"src/**/*"
+	]
+}
