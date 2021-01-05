@@ -10,7 +10,7 @@
 	"author": "Oyeneye Bolaji",
 	"license": "ISC",
 	"dependencies": {
-		"axios": "^0.19.1",
+		"axios": "^0.21.1",
 		"axios-observable": "^1.1.2",
 		"rxjs": "^6.5.4",
 		"ts-node": "^8.6.2",
